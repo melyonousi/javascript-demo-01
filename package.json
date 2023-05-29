@@ -1,0 +1,12 @@
+{
+  "name": "javascript-demo-01",
+  "version": "1.0.0",
+  "description": "JavaScript demo tutorial",
+  "main": "index.js",
+  "repository": "https://el-yonousi@github.com/el-yonousi/javascript-demo-01.git",
+  "author": "Mohamed EL YONOUSI",
+  "license": "MIT",
+  "dependencies": {
+    "@googlemaps/js-api-loader": "^1.15.2"
+  }
+}
