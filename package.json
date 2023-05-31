@@ -6,7 +6,13 @@
   "repository": "https://el-yonousi@github.com/el-yonousi/javascript-demo-01.git",
   "author": "Mohamed EL YONOUSI",
   "license": "MIT",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./index.css -o ./dist/index.css --watch"
+  },
   "dependencies": {
     "@googlemaps/js-api-loader": "^1.15.2"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
   }
 }
